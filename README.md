@@ -6,7 +6,7 @@
   - https://webrtchacks.com/
   - https://bloggeek.me
   - https://cogint.ai
-  - https://blog.mozilla.org/webrtc/ ：Mozilla翻译的webrtc文档，但是翻译到一半停工了。可以关注我们社区的翻译项目，[RTC社区中文文档翻译项目]（https://github.com/RTC-Developer/WebRTC-Documentation-in-Chinese),进度比较慢，但会保证完成，欢迎贡献。
+  - https://blog.mozilla.org/webrtc/ ：Mozilla翻译的webrtc文档，但是翻译到一半停工了。可以关注我们社区的翻译项目，[RTC社区中文文档翻译项目](https://github.com/RTC-Developer/WebRTC-Documentation-in-Chinese),进度比较慢，但会保证完成，欢迎贡献。
   - https://www.chriskranky.com
   - https://webrtc.org/blog/：webRTC的官方博客
   - https://webrtc.ventures/blog/：一个专门做WebRTC外包开发的美国公司的博客，文章也会翻译的
